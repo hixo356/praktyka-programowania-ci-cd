@@ -15,4 +15,5 @@ def multiply(a: int, b: int) -> int:
 def divide(a: int, b: int) -> float:
     """Returns quotient of two numbers"""
     return a/b
+
     
